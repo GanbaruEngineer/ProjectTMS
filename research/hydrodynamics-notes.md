@@ -11,7 +11,6 @@ To document tsunami physics, wave behaviour, hydrodynamic equations, and modelli
 - Boundary condition modelling
 
 ## Key Equations
-(Add standard forms here)
 - Continuity equation
 - Momentum equations
 - Energy transport
